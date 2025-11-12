@@ -11,8 +11,8 @@ Here’s the clean **JetBrains Rider (Mac, English layout)** shortcut list — f
 * **Go Back / Forward:** ⌘ [ / ⌘ ]
 * **Find Usages:** ⌥ F7
 
-Go Back: ⌘ [ OR ⌘ ⌥ ← 
-Go Forward (again): ⌘ ] OR ⌘ ⌥ →
+* ** Go Back:** ⌘ [ OR ⌘ ⌥ ← 
+* ** Go Forward (again)::** ⌘ ] OR ⌘ ⌥ →
 ---
 
 ### ✍️ **Editing**
