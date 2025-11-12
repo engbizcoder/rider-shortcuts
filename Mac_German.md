@@ -1,7 +1,3 @@
-Here’s the clean **JetBrains Rider (Mac, English layout)** shortcut list — fully formatted and readable:
-
----
-
 ### 🧭 **Navigation**
 
 * **Go to File:** ⌘ ⇧ O
